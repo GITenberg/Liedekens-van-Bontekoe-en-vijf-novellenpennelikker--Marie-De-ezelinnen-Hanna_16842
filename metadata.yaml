@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6968
     wikipedia: http://www.dbnl.org/auteurs/auteur.php?id=potg001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16842#Liedekens-van-Bontekoe-en-vijf-novellenpennelikker--Marie-De-ezelinnen-Hanna
 gutenberg_issued: '2005-10-09'
 gutenberg_type: Text
 identifiers:
