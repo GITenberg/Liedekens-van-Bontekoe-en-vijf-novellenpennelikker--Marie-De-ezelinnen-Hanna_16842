@@ -1,0 +1,30 @@
+_repo: Liedekens-van-Bontekoe-en-vijf-novellenpennelikker--Marie-De-ezelinnen-Hanna_16842
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Potgieter, E. J. (Everhardus Johannes)
+    alias: Potgieter, Everhardus Johannes
+    birthdate: 1808
+    deathdate: 1875
+    gutenberg_agent_id: '6968'
+    url: http://www.gutenberg.org/2009/agents/6968
+    wikipedia: http://www.dbnl.org/auteurs/auteur.php?id=potg001
+description: ''
+gutenberg_issued: '2005-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16842'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Poetry'
+- !lcsh 'Fiction'
+title: "Liedekens van Bontekoe en vijf novellen\r\nBlaauw bes, blauw bes!—'T is maar\
+  \ een pennelikker!—Marie—De ezelinnen—Hanna"
+url: http://www.gutenberg.org/ebooks/16842
